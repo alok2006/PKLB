@@ -450,7 +450,7 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ## License
 
-`awesome-cryptography` by [@sobolevn](https://github.com/bg insane)
+`awesome-cryptography` by [@bgcode-insane](https://github.com/bgcode-insane)
 
 To the extent possible under law, the person who associated CC0 with
 `awesome-cryptography` has waived all copyright and related or neighboring
