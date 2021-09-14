@@ -6,5 +6,5 @@
   - We make alogroritm to recognize its encryption key.
   - Then the key sended to sever (We don't use it from client device because of some performance issue)
 
-**~Alok**
+**~Alok**&**~**insane***
 <!-- Your Views  -->
